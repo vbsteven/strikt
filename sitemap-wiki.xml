@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://strikt.io/wiki</loc>
+        <lastmod>2019-03-30T14:36:02.721621</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/getting-started</loc>
+        <lastmod>2019-03-30T14:36:02.646343</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/assertion-styles</loc>
+        <lastmod>2019-03-30T14:36:02.652161</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/collection-elements</loc>
+        <lastmod>2019-03-30T14:36:02.661565</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/expecting-exceptions</loc>
+        <lastmod>2019-03-30T14:36:02.667670</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/flow-typing</loc>
+        <lastmod>2019-03-30T14:36:02.674803</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/traversing-subjects</loc>
+        <lastmod>2019-03-30T14:36:02.684787</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/grouping-with-and</loc>
+        <lastmod>2019-03-30T14:36:02.688483</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/custom-assertions</loc>
+        <lastmod>2019-03-30T14:36:02.696493</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/wiki/additional-modules</loc>
+        <lastmod>2019-03-30T14:36:02.709295</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>
